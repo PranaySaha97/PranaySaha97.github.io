@@ -27,6 +27,8 @@
     width: fit-content;
     padding: 5px;
     color: #E5E5E5;
+    border: 2px solid #E5E5E5;
+    border-radius: 10px;
 }
 
 
@@ -571,7 +573,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 75%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -582,7 +584,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 85%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -593,7 +595,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 85%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -604,7 +606,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 80%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -615,7 +617,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 80%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -626,7 +628,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 80%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -637,7 +639,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 60%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -648,7 +650,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 70%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -660,7 +662,7 @@
     background-color: #E5DC1F;
     border-radius: 20px;
     height: 5px;
-    width: 50%;
+    width: 80%;
     color: #E5E5E5;
     text-align: right;
     overflow-y: hidden;
@@ -965,7 +967,7 @@
 footer{
     background-color: #272a38;
     color: #E5E5E5;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .footer{
@@ -983,6 +985,7 @@ footer{
 .footer .credits a{
     text-decoration: none;
     color: #E5E5E5;
+
 }
 
 .footer .credits a:hover{
